@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.3'
+gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -44,4 +44,6 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'quiet_assets'
+  gem "better_errors"
+  gem "binding_of_caller"
 end

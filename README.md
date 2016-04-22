@@ -2,7 +2,9 @@
 
 ### Setup
 
-First **fork** and *then* clone this repository. Open up the entire folder in Sublime.
+ 1. Clone this repository.
+ 1. **Create a branch for your work.**
+ 1. Open up the entire folder in Atom.
 
 `cd` into the folder you just cloned and run the following commands:
 
@@ -19,4 +21,3 @@ I've added a list of nav links to [http://localhost:3000/zodiacs/leo](http://loc
 Currently, none of them work. In `routes.rb`, uncomment each one *ONE AT A TIME* and make it work. I've planted at least one bug into each RCAV.
 
 **YOUR JOB:** Debug all 12 RCAVs.
-

@@ -14,6 +14,10 @@
 
 If it worked, you should be able to navigate to [http://localhost:3000](http://localhost:3000) and see something there. If it didn't work, make sure you don't have any old servers running in other tabs or windows.
 
+### Getting Started video
+
+You'll find a very brief Getting Started video for this project in Canvas under **Pages**. You should still read this README thoroughly.
+
 ### Study static routes
 
 This app currently supports two routes: [http://localhost:3000/lucky_numbers](http://localhost:3000/lucky_numbers) and [http://localhost:3000/unlucky_numbers](http://localhost:3000/unlucky_numbers).

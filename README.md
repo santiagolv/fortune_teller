@@ -18,6 +18,18 @@ If it worked, you should be able to navigate to [http://localhost:3000](http://l
 
 I've added a list of nav links to [http://localhost:3000/zodiacs/leo](http://localhost:3000/zodiacs/leo), [http://localhost:3000/zodiacs/cancer](http://localhost:3000/zodiacs/cancer), etc.
 
-Currently, none of them work. In `routes.rb`, uncomment each one *ONE AT A TIME* and make it work. I've planted at least one bug into each RCAV.
+Currently, none of them work. In `routes.rb`, uncomment each one *ONE AT A TIME* and make it work.
+
+Let me say that again:
+
+#### Uncomment each route
+
+### ONE AT A TIME
+
+#### and debug it
+
+Refer heavily to the [RCAV Flowchart](https://gist.github.com/raghubetina/c200d88adcfe0d4dcd04).
+
+I've planted at least one bug into each RCAV.
 
 **YOUR JOB:** Debug all 12 RCAVs.

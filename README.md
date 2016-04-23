@@ -48,4 +48,4 @@ I've planted at least one bug into each RCAV.
 
 **YOUR JOB:** Debug all 12 RCAVs.
 
-For example, 
+For example, the video describes how to fix the first zodiac -- Aries.

@@ -2,8 +2,8 @@
 
 ### Setup
 
- 1. Clone this repository.
- 1. **Create a branch for your work.**
+ 1. Fork this repository.
+ 1. Clone **your fork** (Open in Desktop).
  1. Open up the entire folder in Atom.
 
 `cd` into the folder you just cloned and run the following commands:
